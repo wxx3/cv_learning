@@ -1,0 +1,2 @@
+上传猫或狗的图片,AI 预测概率,timestamp
+.gradio\flagged\上传猫或狗的图片\36c2eda9d6a0b685dcb7\dogs_10.jpg,"{""label"": ""\u72d7 (Dog)"", ""confidences"": [{""label"": ""\u72d7 (Dog)"", ""confidence"": 0.9896149635314941}, {""label"": ""\u732b (Cat)"", ""confidence"": 0.010384980589151382}]}",2026-05-16 15:53:08.961850
